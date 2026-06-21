@@ -168,8 +168,6 @@ The system automatically converts spoken content from a video into synchronized 
 ## 👨‍💻 Author
 
 **Srushti G Joshi**  
-B.Tech in Automation & Robotics  
-KLE Technological University
 
 ---
 
